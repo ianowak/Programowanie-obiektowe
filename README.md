@@ -7,4 +7,4 @@
 * Zamiana.java - algorytm zamieniający 2 podane liczby
 
 ## Technologies
-*Java 14
+* Java 14
